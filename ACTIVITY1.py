@@ -17,3 +17,5 @@ font = ImageFont.truetype("comicbd.ttf", 25)
 draw.text((10, 25), "Coco Martin reaction after he finished helping on the CCIS Booth:", font=font, fill="black")
 
 new_img.show()
+
+new_img.save("CSELEC3_3A_JayArQuipit.png")
